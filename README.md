@@ -11,3 +11,8 @@ La aplicación simula lo siguiente:
 Un desarrollador Full-Stack es solicitado en hacer la continuación del proyecto de desarrollo de un Aplicativo Web que pueda gestionar la compra y venta de productos del E-Commerce “CampusShop”. Para ello se entrega un proyecto base realizado, el cual contiene una ejemplificación funcional a nivel frontal y un servicio trasero el cual proveerá la información necesaria para el uso de .
 
 El propósito de dicho trabajo es realizar la creación de la parte frontal del aplicativo de acuerdo a los requerimientos del cliente.
+
+<h2>**Enlaces útiles**</h2>
+
+Este aparte se enfoca en detallar que para el recibimiento de toda la información al menos por API REST, se hace mediante este enlace: https://6687e0a50bc7155dc0198074.mockapi.io/api/v1/articles
+
