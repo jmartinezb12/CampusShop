@@ -1,0 +1,40 @@
+@import url("variables.css");
+
+*{
+    margin:0;
+    padding: 0;
+    background: var(--color-1);
+}
+.main {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main__categories{
+    background: blue;
+}
+.main__articles {
+    background-color: var(--color-2);
+    width: 1500px;
+    height: 875px;
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+}
+.main__articles .articles__individual {
+    width: 320px;
+    height: 400px;
+    background: var(--color-3);
+    align-content: space-evenly;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+}
+.articles__individual img{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
